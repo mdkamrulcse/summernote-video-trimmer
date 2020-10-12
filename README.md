@@ -58,6 +58,8 @@ $(document).ready(function() {
             });
 });
 ```
+## Demo
+https://mdkamrulcse.github.io/summernote-video-trimmer/
 
 ## License
 
