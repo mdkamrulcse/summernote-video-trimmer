@@ -18,7 +18,7 @@
      * Initialize in the toolbar like so:
      *   toolbar: ['insert', ['videoPlugin']]
      *
-     * Getweb Custom video trim Plugin for summernote
+     * video trim Plugin for summernote
      */
 
     $.extend($.summernote.options, {
